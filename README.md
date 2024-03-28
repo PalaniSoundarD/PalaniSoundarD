@@ -36,8 +36,6 @@ Here are some of the tools I use for my design projects:
 - **Adobe Illustrator**  
   ![Illustrator Icon](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
 
-- **Sketch**  
-  ![Sketch Icon](https://img.icons8.com/color/48/000000/sketch.png)
 
 ### Prototyping Tools
 
@@ -47,8 +45,11 @@ Here are some of the tools I use for my design projects:
 - **Figma**  
   ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
 
-- **InVision**  
-  ![InVision Icon](https://img.icons8.com/color/48/000000/invision.png)
+- **Spline**  
+  ![Spline Icon](https://img.icons8.com/material-outlined/48/000000/curve.png)
+
+  
+### Development Tools
 
 - **HTML5**  
   ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
