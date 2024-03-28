@@ -1,20 +1,20 @@
 ### Hi there 👋
-This is Me
+This is Me..
 <br>
 <img src="https://palanisoundard.github.io/Portfolio/assets/img/profile-img.jpg" height="150px" width="auto">
 
 **PalaniSoundarD/PalaniSoundarD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My Portfoilio : 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Nohitatu Technologies
+- 🌱 I’m currently learning Advanced Web Desigining Skills
+- 👯 I’m looking to collaborate on a Product Based company where I can develop My Skills
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Email : <a href="mailto:someone@example.com">ssoundar364@gmail.com</a>, Phn No : 7397268540
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact : 
 # Web Designer Profile
 
 Welcome to my GitHub profile! I'm a passionate web designer with expertise in creating visually stunning and user-friendly interfaces. Below, you'll find some information about me and the tools I use for my design work.
