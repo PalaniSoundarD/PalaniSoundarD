@@ -13,7 +13,6 @@ My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here
 - 💬 Ask me about ...
 - 📫 How to reach me: <br>
  Email : <a href="mailto:someone@example.com">ssoundar364@gmail.com</a>
- <br>
  Phn No : 7397268540
 
 # Web Designer Profile
