@@ -57,7 +57,7 @@ Here are some of the tools I use for my design projects:
 - **Bootstrap**  
   ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 
- **JavaScript**  
+- **JavaScript**  
   ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 
 - **Visual Studio Code**  
