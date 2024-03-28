@@ -50,7 +50,14 @@ Here are some of the tools I use for my design projects:
 - **InVision**  
   ![InVision Icon](https://img.icons8.com/color/48/000000/invision.png)
 
-### Development Tools
+- **HTML5**  
+  ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+
+- **CSS3**  
+  ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
+
+- **Bootstrap**  
+  ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 - **Visual Studio Code**  
   ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
@@ -60,15 +67,6 @@ Here are some of the tools I use for my design projects:
 
 - **CodePen**  
   ![CodePen Icon](https://img.icons8.com/ios-filled/50/000000/codepen.png)
-
-- **HTML**
-  ![HTML Icon](https://icons8.com/icon/D2Hi2VkJSi33/html-5)
-
-- **CSS**
-  ![CSS Icon](https://icons8.com/icon/FpF2uJ60w8Ml/medium-rank-homeguard-of-strip-and-star-uniform-badge)
-
-- **Bootstrap**
-  ![Bootstrap Icon](https://icons8.com/icon/EzPCiQUqWWEa/bootstrap)  
 
 Feel free to reach out if you'd like to collaborate or discuss any design-related projects!
 
