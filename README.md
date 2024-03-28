@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Me
-<img src="https://palanisoundard.github.io/Portfolio/assets/img/profile-img.jpg">
+<img src="https://palanisoundard.github.io/Portfolio/assets/img/profile-img.jpg" style="width:auto;height=200px;">
 
 **PalaniSoundarD/PalaniSoundarD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
