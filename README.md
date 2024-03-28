@@ -3,8 +3,6 @@ This is Me..
 <br>
 <img src="https://palanisoundard.github.io/Portfolio/assets/img/profile-img.jpg" height="150px" width="auto">
 
-**PalaniSoundarD/PalaniSoundarD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here!</a>
 <br>
 
