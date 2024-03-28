@@ -12,9 +12,9 @@ My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here
 - 👯 I’m looking to collaborate on a Product Based company where I can develop My Skills
 - 💬 Ask me about ...
 - 📫 How to reach me: Email : <a href="mailto:someone@example.com">ssoundar364@gmail.com</a>
+<br>
                        Phn No : 7397268540
-- 😄 Pronouns: ...
-- ⚡ Fun fact : 
+
 # Web Designer Profile
 
 Welcome to my GitHub profile! I'm a passionate web designer with expertise in creating visually stunning and user-friendly interfaces. Below, you'll find some information about me and the tools I use for my design work.
