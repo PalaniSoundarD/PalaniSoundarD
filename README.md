@@ -12,7 +12,6 @@ My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here
 - 👯 I’m looking to collaborate on a Product Based company where I can develop My Skills
 - 💬 Ask me about ...
 - 📫 How to reach me: Email : <a href="mailto:someone@example.com">ssoundar364@gmail.com</a>
-<br>
                        Phn No : 7397268540
 - 😄 Pronouns: ...
 - ⚡ Fun fact : 
