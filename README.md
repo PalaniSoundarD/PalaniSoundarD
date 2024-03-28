@@ -11,7 +11,7 @@ My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here
 - 🌱 I’m currently learning Advanced Web Desigining Skills
 - 👯 I’m looking to collaborate on a Product Based company where I can develop My Skills
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
  Email : <a href="mailto:someone@example.com">ssoundar364@gmail.com</a>
  <br>
  Phn No : 7397268540
