@@ -45,10 +45,7 @@ Here are some of the tools I use for my design projects:
 - **Figma**  
   ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
 
-- **Spline**  
-  ![Spline Icon](https://img.icons8.com/material-outlined/48/000000/curve.png)
-
-  
+ 
 ### Development Tools
 
 - **HTML5**  
@@ -59,6 +56,9 @@ Here are some of the tools I use for my design projects:
 
 - **Bootstrap**  
   ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
+
+ **JavaScript**  
+  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 
 - **Visual Studio Code**  
   ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
