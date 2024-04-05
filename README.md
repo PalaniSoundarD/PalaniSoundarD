@@ -3,7 +3,7 @@ This is Me..
 <br>
 <img src="https://palanisoundard.github.io/Portfolio/assets/img/profile-img.jpg" height="150px" width="auto">
 
-My Portfoilio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here!</a>
+My Portfolio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here!</a>
 <br>
 
 
