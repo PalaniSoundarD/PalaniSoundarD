@@ -7,7 +7,7 @@ My Portfolio : <a href="https://palanisoundard.github.io/Portfolio/">Click Here!
 <br>
 
 
-- 🔭 I’m currently working on Nohitatu Technologies
+- 🔭 I’m currently working on HTML , CSS and Bootstrap
 - 🌱 I’m currently learning Advanced Web Desigining Skills
 - 👯 I’m looking to collaborate on a Product Based company where I can develop My Skills
 - 💬 Ask me about ...
